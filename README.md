@@ -1,2 +1,2 @@
 # SuperStore-Forecast
-furniture forecast with machine learning(pycaret)
+furniture sales timeseries forecast with machine learning algorithms
