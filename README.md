@@ -1,2 +1,2 @@
 # SuperStore-Forecast
-furniture sales timeseries forecast with machine learning algorithms
+furniture sales forecast with machine learning algorithms
